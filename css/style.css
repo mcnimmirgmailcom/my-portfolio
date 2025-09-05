@@ -1,7 +1,35 @@
-body {
-    background-color: orange;
+:root{
+    font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 900;
+        font-style: normal;
+
 }
 
+
+body {
+    background-color: blue;
+
+}
+
+
 h1 {
+    font-size: 70px;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+
 }
