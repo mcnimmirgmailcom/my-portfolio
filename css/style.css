@@ -8,9 +8,14 @@
 
 
 body {
-    background-color: blue;
+
+height: 100vh;
+    /* Full viewport height */
+    margin: 0;
+    background: linear-gradient(to bottom right, rgb(204, 85, 0), black);
 
 }
+
 
 
 h1 {
@@ -28,6 +33,7 @@ p {
     text-align: center;
 
 }
+
 
 img{
     display: block;
